@@ -1,6 +1,6 @@
-
+<img width="700px" src="C:\Users\prasa\Downloads\fernando-hernandez-JdoofvUDUwc-unsplash.png">
 <h1 align="center">Hi 👋, I'm Prasannam Tiwari</h1>
-<h3 align="center">learning developement</h3>
+<h3 align="cen<scter">learning developement</h3>
 <img align="right" alt="coding" width="350px" src="https://images.unsplash.com/photo-1515041219749-89347f83291a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannam23&label=Profile%20views&color=0e75b6&style=flat" alt="prasannam23" /> </p>
 
