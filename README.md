@@ -1,4 +1,4 @@
-<img src="https://github.com/Prasannam23/Prasannam23/blob/main/image%20">
+<img align="center" src="https://github.com/Prasannam23/Prasannam23/blob/main/image%20">
 <h1 align="center">Hi 👋, I'm Prasannam Tiwari</h1>
 <h3 align="center">learning developement</h3>
 
